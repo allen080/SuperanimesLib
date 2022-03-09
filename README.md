@@ -3,8 +3,10 @@
 **OBS: biblioteca ainda nao esta finalizada e se encontra na sua versao de testes**
 
 uso:
+```python
 from superanimes import Superanimes.
 s = Superanimes('nome do anime')
+```
 
 Exemplos:
 
